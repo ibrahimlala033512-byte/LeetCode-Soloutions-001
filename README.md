@@ -6,9 +6,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/ibrahimlala033512-byte/LeetCode-Soloutions-001/tree/main/0014-longest-common-prefix/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ibrahimlala033512-byte/LeetCode-Soloutions-001/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ibrahimlala033512-byte/LeetCode-Soloutions-001/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/ibrahimlala033512-byte/LeetCode-Soloutions-001/tree/main/0014-longest-common-prefix/) | Easy |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/ibrahimlala033512-byte/LeetCode-Soloutions-001/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
